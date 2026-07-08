@@ -1,0 +1,6 @@
+[
+  "backend/tests/test_api.py::test_get_profile",
+  "backend/tests/test_api.py::test_loan_crud",
+  "backend/tests/test_api.py::test_login",
+  "backend/tests/test_api.py::test_register"
+]
